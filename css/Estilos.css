@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+    font-size: 3em;
+    color: red;
+}
+
+h2 {
+    text-align: center;
+    font-size: 2em;
+    color: #0d52d1;
+}
+
+h3 {
+    text-align: center;
+    font-size: 1.5em;
+    color: rgb(50, 137, 250);
+}
+
+p {
+    text-align: justify;
+    font-size: 1.3em;
+    color: black;
+}
+
+li {
+    margin-left: 5px;
+    margin-right: 5px;
+    text-align: justify;
+    font-size: 1.3em;
+}
